@@ -1,6 +1,6 @@
 # Final Project
 
-## [Project Goal](https://docs.google.com/document/d/1KqPFCLv-Ce-Irtz-sAP0E7RfaINJ9PoY7Hfacv8kVYM/edit)
+## [Project Goal]
 
 The primary aim of this project is to identify the shortest route between two given airport destinations by using Dijkstra's and Landmark Algorithms. If there exists a *direct* route between the two airport destinations, Dijkstra's algorithm will be used. If a direct route does not exist, the shortest route accounting layover flights will be identified using the Landmark algorithm.
 
